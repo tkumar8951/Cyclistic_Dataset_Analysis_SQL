@@ -1,5 +1,5 @@
 # Cyclistic_Dataset_Analysis_SQL
-# This is a SQL end to end project
+This is a SQL end to end Capston Project in Google Data Analytics Certification program
 
 #Steps
 
